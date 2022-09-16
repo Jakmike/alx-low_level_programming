@@ -7,7 +7,7 @@
 *Return: returns nothing
 */
 
-void print_squares(int size)
+void print_square(int size)
 {
 	int inc1, inc2;
 
@@ -26,6 +26,4 @@ void print_squares(int size)
 	}
 	else
 	{
-		putchar('\n');
-	}
 }
